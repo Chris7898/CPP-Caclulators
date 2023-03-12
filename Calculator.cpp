@@ -1,3 +1,5 @@
+// This file is a very simple calculator with basic mathimatical oporaters.
+
 #include <iostream>
 #include <Cmath>
 
