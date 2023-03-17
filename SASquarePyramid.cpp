@@ -11,6 +11,8 @@ double BasePerimeter;
 
 
 int main(){
+    std::cout <<"ENTER ALL IN CM!\n";
+
     std::cout <<"Enter the base edge: ";
     std::cin >> BaseEdge;
 
@@ -19,6 +21,11 @@ int main(){
 
     std::cout <<"Enter the Base Perimeter: ";
     std::cin >> BasePerimeter;
+
+    std::cout <<"Enter the Slant in Degrees";
+    std::cin >> Slant;
+
+    
 
 
     return 0;
