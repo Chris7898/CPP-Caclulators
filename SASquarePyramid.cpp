@@ -11,6 +11,15 @@ double BasePerimeter;
 
 
 int main(){
+    std::cout <<"Enter the base edge: ";
+    std::cin >> BaseEdge;
 
-    
+    std::cout <<"Enter the Height: ";
+    std::cin >> Height;
+
+    std::cout <<"Enter the Base Perimeter: ";
+    std::cin >> BasePerimeter;
+
+
+    return 0;
 }
