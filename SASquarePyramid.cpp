@@ -22,8 +22,11 @@ int main(){
     std::cout <<"Enter the Base Perimeter: ";
     std::cin >> BasePerimeter;
 
-    std::cout <<"Enter the Slant in Degrees";
+    std::cout <<"Enter the Slant in Degrees: ";
     std::cin >> Slant;
+
+    result = BasePerimeter * Slant / 2;
+    std::cout <<"Result: " << result;
 
     
 
