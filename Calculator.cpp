@@ -44,6 +44,10 @@ case '/':
     std::cout << "result: " << result << '\n';
     break;
 
+default:
+
+std::cout <<"Invalid!"
+
 }
 
 std::cout << "****************************************\n";
