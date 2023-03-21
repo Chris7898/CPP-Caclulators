@@ -46,7 +46,7 @@ case '/':
 
 default:
 
-std::cout <<"Invalid!"
+std::cout <<"Invalid!";
 
 }
 
