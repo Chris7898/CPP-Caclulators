@@ -36,6 +36,7 @@ case 'D':
 
 default:
 std::cout <<"Invlaid!";
+
     break;
 
 }
