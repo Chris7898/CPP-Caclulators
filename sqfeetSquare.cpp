@@ -4,17 +4,18 @@
 #include <cmath>
 
 double result;
-double side1;
-double side2;
-double side3;
-double side4;
+double Width;
+double Length;
 
 
 int main(){
-    std::cout <<"Enter side 1: ";
-    std::cin >> side1;
+    std::cout <<"Enter The Width: ";
+    std::cin >> Width;
 
-    std::cout <<"Enter side 2: ";
-    std::cin >> side2;
+    std::cout <<"Enter The Length: ";
+    std::cin >> Length;
 
+    result = Width * Length;
+
+    std::cout <<"Result: " << result << "Square Feet" << '\n';
 }
