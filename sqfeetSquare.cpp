@@ -11,7 +11,10 @@ double side4;
 
 
 int main(){
-    std::cout <<"Enter side one: ";
+    std::cout <<"Enter side 1: ";
+    std::cin >> side1;
 
+    std::cout <<"Enter side 2: ";
+    std::cin >> side2;
 
 }
