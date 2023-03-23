@@ -4,10 +4,14 @@
 #include <cmath>
 
 double result;
-double;
+double side1;
+double side2;
+double side3;
+double side4;
 
 
 int main(){
-    std::cout <<;
+    std::cout <<"Enter side one: ";
+
 
 }
