@@ -1,5 +1,3 @@
-// Not done
-
 #include <iostream>
 #include <cmath>
 
