@@ -2,7 +2,7 @@
 
 #include <iostream>
 #include <Cmath>
-#include "const.hpp"
+#include "const.h"
 
 int main(){
 

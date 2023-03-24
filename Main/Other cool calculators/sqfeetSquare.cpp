@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-#include "const.hpp"
+#include "const.h"
 
 int main(){
     std::cout <<"Enter The Width: ";

@@ -2,7 +2,7 @@
 
 #include <iostream>
 #include <cmath>
-#include "const.hpp"
+#include "const.h"
 
 int main(){
 
@@ -12,7 +12,7 @@ std::cout <<"\nwhat is the radius of your sphere?\n";
 std::cout <<"Enter the radius: ";
 std::cin >> radius;
 
-result = 4 * Pi * radius * radius;
+result = 4 * pi * radius * radius;
 
  std::cout << "result: " << result << '\n';
 
