@@ -1,11 +1,6 @@
 #include <iostream>
 #include <cmath>
 
-double a;
-double b;
-double c;
-double d;
-double result;
 
 int main(){
     std::cout <<"\n***************Square Perimeter calc***************\n";

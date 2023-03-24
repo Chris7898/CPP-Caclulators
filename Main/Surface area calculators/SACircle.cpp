@@ -1,9 +1,6 @@
 #include <iostream>
 #include <cmath>
 
-const double pi = 3.14;
-double radius;
-double result;
 
 int main(){
 

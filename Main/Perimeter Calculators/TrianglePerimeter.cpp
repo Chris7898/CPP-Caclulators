@@ -1,10 +1,6 @@
 #include <iostream>
 #include <cmath>
 
-double a;
-double b;
-double c;
-double result;
 
 int main(){
     std::cout <<"Enter side a: ";

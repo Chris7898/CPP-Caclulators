@@ -1,9 +1,6 @@
 #include <iostream>
 #include <cmath>
 
-double result;
-double num;
-
 int main(){
 
     std::cout <<"Enter the Height/Length: ";

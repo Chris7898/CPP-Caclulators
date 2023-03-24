@@ -3,12 +3,6 @@
 #include <iostream>
 #include <cmath>
 
-double result;
-double BaseEdge;
-double Height;
-double Slant;
-double BasePerimeter;
-
 
 int main(){
     std::cout <<"ENTER ALL IN CM!\n";
