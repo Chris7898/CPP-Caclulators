@@ -2,13 +2,10 @@
 
 #include <iostream>
 #include <Cmath>
+#include "const.hpp"
 
 int main()
 {   
-    char op;
-    double num1;
-    double num2;
-    double result;
 
     std::cout << "***************Calculator***************\n";
 

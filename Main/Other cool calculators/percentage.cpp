@@ -2,13 +2,9 @@
 
 #include <iostream>
 #include <Cmath>
+#include "const.hpp"
 
 int main(){
-    
-char op;
-double num1;
-double num2;
-double result;
 
     std::cout <<"\n***************Percentage Calculator***************\n";
     std::cout <<"Enter the number you would like to find the percentage of: ";

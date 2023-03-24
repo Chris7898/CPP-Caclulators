@@ -3,8 +3,6 @@
 // Used multiple times
 const double pi = 3.14;
 double result;
-double num1;
-double num2;
 
 // SASquarePyramid.cpp
 double BaseEdge;
@@ -46,3 +44,20 @@ double radius;
 double diameter;
 double result;
 char op;
+
+// Basic calc
+char op;
+double num1;
+double num2;
+double result;
+
+// Percentage.cpp
+char op;
+double num1;
+double num2;
+double result;
+
+// sqfeetSquare.cpp
+double result;
+double Width;
+double Length;

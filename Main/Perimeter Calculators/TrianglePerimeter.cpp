@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-
+#include "const.hpp"
 
 int main(){
     std::cout <<"Enter side a: ";
