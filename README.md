@@ -1,4 +1,4 @@
-All calculators were coded by Darkwolf7898 in vs code.
+All calculators were coded by Darkwolf7898 in VS code.
 
 Let me know if what other caclulators I should add!
 
