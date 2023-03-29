@@ -5,7 +5,8 @@
 #include "const.h"
 
 int main(){
-    std::cout <<"ENTER ALL IN CM!\n";
+    std::cout <<"**************************************************";
+    std::cout <<"\nENTER ALL IN CM!\n";
 
     // std::cout <<"Enter the base edge: ";
     // std::cin >> BaseEdge;
@@ -21,9 +22,7 @@ int main(){
 
     result = BasePerimeter * Slant / 2;
     std::cout << "result: " << result << '\n';
-
-    
-
+    std::cout <<"************************************************";
 
     return 0;
 }

@@ -6,7 +6,7 @@ int main(){
 
     std::cout << "\n********************Circle Perimeter calc********************\n";
     
-    std::cout << "please choose either radius or diameter\n";
+    std::cout << "\nplease choose either radius or diameter\n";
     std::cout << "Use R for radius or D for diameter.\n";
     std::cout << "Enter R or D: ";
     std::cin >> op;
@@ -35,6 +35,7 @@ std::cout <<"Invlaid!";
     break;
 
 }
+   std::cout <<"************************************************";
 
 
 return 0;

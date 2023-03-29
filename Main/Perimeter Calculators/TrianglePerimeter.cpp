@@ -3,7 +3,8 @@
 #include "const.h"
 
 int main(){
-    std::cout <<"Enter side a: ";
+    std::cout <<"*********************Triangle Perimeter Calc********************";
+    std::cout <<"\nEnter side a: ";
     std::cin >> a;
 
     std::cout <<"Enter side b: ";
@@ -14,6 +15,7 @@ int main(){
 
     result = a + b + c;
     std::cout << "result: " << result << '\n';
+    std::cout <<"**************************************************************";
 
 return 0;
 }
