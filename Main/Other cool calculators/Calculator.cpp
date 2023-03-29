@@ -2,12 +2,7 @@
 
 #include <iostream>
 #include <Cmath>
-// #include "const.h"
-
-double result;
-double num1;
-double num2;
-char op;
+#include "const.h"
 
 int main()
 {   
