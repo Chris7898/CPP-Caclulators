@@ -34,6 +34,7 @@ double diameter;
 char op;
 double num1;
 double num2;
+double num3;
 
 // sqfeetSquare.cpp
 double Width;
