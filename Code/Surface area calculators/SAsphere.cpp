@@ -16,6 +16,6 @@ result = 4 * pi * radius * radius;
 
  std::cout << "result: " << result << '\n';
 std::cout <<"************************************************************************";
-return 0;
+system("pause");
 
 }

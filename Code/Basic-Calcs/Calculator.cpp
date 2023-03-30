@@ -49,6 +49,6 @@ std::cout <<"Invalid!";
 
 std::cout << "****************************************\n";
 
-return 0;
+system("pause");
 
 }

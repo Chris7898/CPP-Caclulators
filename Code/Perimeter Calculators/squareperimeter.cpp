@@ -22,5 +22,5 @@ int main(){
     std::cout <<"result:" << result;
     std::cout <<"\n******************************\n";
 
-return 0;
+system("pause");
 }

@@ -14,4 +14,6 @@ int main(){
 
     std::cout <<"Result: " << result << "Square Feet" << '\n';
      std::cout <<"\n***************************************************\n";
+     
+     system("pause");
 }

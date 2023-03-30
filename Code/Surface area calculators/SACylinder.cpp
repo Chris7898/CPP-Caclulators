@@ -15,5 +15,5 @@ int main(){
     std::cout <<"Result:" << result <<'\n';
     std::cout <<"*********************************************";
 
-    return 0;
+system("pause");
 }

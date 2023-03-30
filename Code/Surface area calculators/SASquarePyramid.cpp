@@ -24,5 +24,5 @@ int main(){
     std::cout << "result: " << result << '\n';
     std::cout <<"************************************************";
 
-    return 0;
+system("pause");
 }

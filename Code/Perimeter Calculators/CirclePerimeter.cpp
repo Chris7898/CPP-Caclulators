@@ -38,5 +38,5 @@ std::cout <<"Invlaid!";
    std::cout <<"************************************************";
 
 
-return 0;
+system("pause");
 }
