@@ -39,3 +39,6 @@ double num3;
 // sqfeetSquare.cpp
 double Width;
 double Length;
+
+// Vcube.cpp
+double CLength;
