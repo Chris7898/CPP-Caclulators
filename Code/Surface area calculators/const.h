@@ -14,8 +14,6 @@ double Height;
 double Slant;
 double BasePerimeter;
 
-// SASphere.cpp
-
 // SaCylinder.cpp
 double height;
 
@@ -29,11 +27,6 @@ double d;
 
 // CirclePerimeter
 double diameter;
-
-// Basic calc and percentage
-char op;
-double num1;
-double num2;
 
 // sqfeetSquare.cpp
 double Width;
