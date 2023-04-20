@@ -5,4 +5,6 @@ double result;
 double CLength;
 
 // Vtriangle.cpp
-
+double BaseArea;
+double Height;
+double Volume;
