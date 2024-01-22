@@ -1,7 +1,7 @@
 // This file finds the Surface Area of a Square Pyramid.
 
 #include <iostream>
-#include <cmath>
+#include <math.h>
 #include "const.h"
 
 int main(){

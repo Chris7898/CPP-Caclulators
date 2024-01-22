@@ -1,6 +1,6 @@
 #include <iostream>
 #include "VCalcsconst.h"
-#include <cmath>
+#include <math.h>
 
 int main(){
     std::cout <<"***************Volume of a Cube Calc<<***************";

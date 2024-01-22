@@ -1,7 +1,7 @@
 // This file finds the percent of a given number.
 
 #include <iostream>
-#include <Cmath>
+#include <math.h>
 #include "const.h"
 
 int main(){

@@ -1,7 +1,7 @@
 // This file is a very simple calculator with basic mathimatical oporaters.
 
 #include <iostream>
-#include <Cmath>
+#include <math.h>
 #include "const.h"
 
 int main()

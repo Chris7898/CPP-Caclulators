@@ -1,7 +1,7 @@
 // This file find the surface area of a sphere.
 
 #include <iostream>
-#include <cmath>
+#include <math.h>
 #include "const.h"
 
 int main(){
